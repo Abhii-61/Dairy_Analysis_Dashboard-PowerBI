@@ -1,5 +1,5 @@
 # Dairy_Analysis_Dashboard-PowerBI
-Data Analytics project Dashboard to analyse the sales of a Dairy using PowerBI. 
+Data Analytics project Dashboard to analyse the sales of a Dairy using Microsoft Power BI Desktop, Power Query Editor, DAX (Data Analysis Expressions) , Map Visualizations, KPI Indicators, Data Modeling Tools 
 
 🥛 Dairy Sales Analysis Dashboard
 
